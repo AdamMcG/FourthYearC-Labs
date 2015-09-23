@@ -1,0 +1,6 @@
+c:\users\adammcgivern\documents\visual studio 2015\Projects\Lab1ESWDev\Lab1ESWDev\bin\Debug\Lab1ESWDev.exe.config
+c:\users\adammcgivern\documents\visual studio 2015\Projects\Lab1ESWDev\Lab1ESWDev\bin\Debug\Lab1ESWDev.exe
+c:\users\adammcgivern\documents\visual studio 2015\Projects\Lab1ESWDev\Lab1ESWDev\bin\Debug\Lab1ESWDev.pdb
+c:\users\adammcgivern\documents\visual studio 2015\Projects\Lab1ESWDev\Lab1ESWDev\obj\Debug\Lab1ESWDev.csprojResolveAssemblyReference.cache
+c:\users\adammcgivern\documents\visual studio 2015\Projects\Lab1ESWDev\Lab1ESWDev\obj\Debug\Lab1ESWDev.exe
+c:\users\adammcgivern\documents\visual studio 2015\Projects\Lab1ESWDev\Lab1ESWDev\obj\Debug\Lab1ESWDev.pdb

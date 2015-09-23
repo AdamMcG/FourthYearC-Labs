@@ -1,0 +1,5 @@
+c:\users\adammcgivern\documents\visual studio 2015\Projects\EntSWDevLab3\EntSWDevLab3\bin\Debug\EntSWDevLab3.exe.config
+c:\users\adammcgivern\documents\visual studio 2015\Projects\EntSWDevLab3\EntSWDevLab3\bin\Debug\EntSWDevLab3.exe
+c:\users\adammcgivern\documents\visual studio 2015\Projects\EntSWDevLab3\EntSWDevLab3\bin\Debug\EntSWDevLab3.pdb
+c:\users\adammcgivern\documents\visual studio 2015\Projects\EntSWDevLab3\EntSWDevLab3\obj\Debug\EntSWDevLab3.exe
+c:\users\adammcgivern\documents\visual studio 2015\Projects\EntSWDevLab3\EntSWDevLab3\obj\Debug\EntSWDevLab3.pdb
