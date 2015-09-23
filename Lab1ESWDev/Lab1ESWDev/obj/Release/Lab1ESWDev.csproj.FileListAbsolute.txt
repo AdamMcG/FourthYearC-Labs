@@ -4,3 +4,6 @@ c:\users\adammcgivern\documents\visual studio 2015\Projects\Lab1ESWDev\Lab1ESWDe
 c:\users\adammcgivern\documents\visual studio 2015\Projects\Lab1ESWDev\Lab1ESWDev\obj\Release\Lab1ESWDev.csprojResolveAssemblyReference.cache
 c:\users\adammcgivern\documents\visual studio 2015\Projects\Lab1ESWDev\Lab1ESWDev\obj\Release\Lab1ESWDev.exe
 c:\users\adammcgivern\documents\visual studio 2015\Projects\Lab1ESWDev\Lab1ESWDev\obj\Release\Lab1ESWDev.pdb
+C:\Users\AdamMcGivern\Desktop\EnterpriseSoftware\FourthYearC-Labs\Lab1ESWDev\Lab1ESWDev\bin\Release\Lab1ESWDev.exe.config
+C:\Users\AdamMcGivern\Desktop\EnterpriseSoftware\FourthYearC-Labs\Lab1ESWDev\Lab1ESWDev\obj\Release\Lab1ESWDev.exe
+C:\Users\AdamMcGivern\Desktop\EnterpriseSoftware\FourthYearC-Labs\Lab1ESWDev\Lab1ESWDev\obj\Release\Lab1ESWDev.pdb
